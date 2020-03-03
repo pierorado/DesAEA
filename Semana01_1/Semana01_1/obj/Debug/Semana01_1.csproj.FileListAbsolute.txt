@@ -1,0 +1,9 @@
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\bin\Debug\Semana01_1.exe.config
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\bin\Debug\Semana01_1.exe
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\bin\Debug\Semana01_1.pdb
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.Form1.resources
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.Properties.Resources.resources
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.csproj.GenerateResource.cache
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.exe
+C:\Users\Tecsup\source\repos\Semana01_1\Semana01_1\obj\Debug\Semana01_1.pdb
